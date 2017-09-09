@@ -1,0 +1,12 @@
+{
+    "name": "bitumin/chatapp",
+    "description": "Chat app simple php backend",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mitxel Moriana",
+            "email": "moriana.mitxel@gmail.com"
+        }
+    ],
+    "require": {}
+}
