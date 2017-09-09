@@ -8,5 +8,14 @@
             "email": "moriana.mitxel@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "ChatApp\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/routing": "^3.3",
+        "symfony/http-foundation": "^3.3",
+        "symfony/http-kernel": "^3.3"
+    }
 }
